@@ -1,0 +1,32 @@
+.imgFondo{
+    background-image: url(./imagenes/hawaii.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    background-color: rgb(101,92,92);
+    background-blend-mode: soft-light;
+}
+
+#navBarNav{
+    background-color: #353a40;
+}
+
+#lugar{
+    background-color: #353a40;
+}
+
+#footer{
+    background-color: #163b51;
+}
+
+.verde{
+    background-color: #789f32;
+}
+
+.contenedor-orador{
+    text-align: center;
+}
+
+.container-contenedor{
+    margin: 0;
+}
